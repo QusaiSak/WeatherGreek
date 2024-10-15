@@ -64,3 +64,10 @@
     @apply bg-background text-foreground;
   }
 }
+
+@font-face {
+  font-family: 'RocketWildness';
+  src: url('./assets/against regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
